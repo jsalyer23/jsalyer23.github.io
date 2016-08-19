@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Tic Tac Toe Journal"
 date:   2016-06-28 08:48:55 -0500
 categories: jekyll update

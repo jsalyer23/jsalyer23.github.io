@@ -13,8 +13,9 @@
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
             {% endfor %}
-            <li><a href="#">Sign Up</a></li>
-            <li><a href="#">Log In</a></li>
+            {% for post in site.posts limit: 10 %}  
+            <li><a href="{{post.url}}">{{ post.title }}</a></li>  
+           {% endfor %}
             <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
                    class="icon fa-feed"> RSS Feed</a></li>
           </ul>

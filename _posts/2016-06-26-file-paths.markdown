@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "File Paths"
 date:   2016-06-26 08:48:55 -0500
 categories: jekyll update

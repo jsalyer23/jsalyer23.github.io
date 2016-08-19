@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "World Wide Web"
 date:   2016-06-21 08:48:55 -0500
 categories: jekyll update

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "The Ups and Downs Of Coding"
 date:   2016-08-02 08:48:55 -0500
 categories: jekyll update

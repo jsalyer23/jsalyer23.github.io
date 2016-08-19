@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Personal Dictionary"
 date:   2016-07-06 08:48:55 -0500
 categories: jekyll update

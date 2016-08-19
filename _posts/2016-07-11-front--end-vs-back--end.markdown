@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Front-end VS Back-end"
 date:   2016-07-11 08:48:55 -0500
 categories: jekyll update

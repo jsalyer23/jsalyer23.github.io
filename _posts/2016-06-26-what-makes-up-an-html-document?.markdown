@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "What Makes Up an HTML Document?"
 date:   2016-06-26 08:48:55 -0500
 categories: jekyll update
