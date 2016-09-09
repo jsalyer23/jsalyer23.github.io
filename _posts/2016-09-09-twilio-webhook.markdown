@@ -25,6 +25,7 @@ You will need to add this new controller action to your `config/routes.rb`. Sinc
 ```ruby
 post "/receiving_incoming_messages" => "YOUR_CONTROLLER_NAME#receiving_incoming_messages"
 ```
+
 #### Step Two
 
 When receiving `POST` resquests in Rails, you need to add a `skip_before_filter` statement within your contoller so skip the default security feature (CSRF Authenticity Token). You also will receive an error letting you know that there is no view for this controller action so you need to have the action render nothing. This should look like this:
